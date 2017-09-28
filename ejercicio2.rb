@@ -60,4 +60,4 @@ end
 
 c1 = Cuadrado.new(2)
 puts c1.area
-#puts c1.perimetro
+puts c1.perimetro
